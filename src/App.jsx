@@ -12,7 +12,7 @@ function App() {
             src="/profile.webp"
           />
         </div>
-        <span className="dark:text-slate-50 text-2xl font-bold">
+        <span className="dark:text-slate-50 text-3xl font-bold">
           Alhifny Wahid
         </span>
         <p className="text-1xl text-white">Front End - Developer</p>
