@@ -1,3 +1,5 @@
+import Tabs from "./components/Tab";
+
 function App() {
   return (
     <>
@@ -16,6 +18,7 @@ function App() {
           Alhifny Wahid
         </span>
         <p className="text-1xl text-white">Front End - Developer</p>
+        <Tabs />
       </div>
     </>
   );
