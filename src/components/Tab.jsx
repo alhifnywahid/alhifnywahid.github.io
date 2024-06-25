@@ -20,6 +20,14 @@ const categories = [
         shareCount: 2,
         url: 'https://tools.alhifnywahid.xyz'
       },
+      {
+        id: 3,
+        title: "Notes About Programing.",
+        date: "136h ago",
+        commentCount: 3,
+        shareCount: 2,
+        url: 'https://notes.alhifnywahid.xyz/'
+      },
     ],
   },
   // {
