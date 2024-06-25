@@ -22,7 +22,7 @@ const categories = [
       },
       {
         id: 3,
-        title: "Notes About Programing.",
+        title: "Notes on Programing",
         date: "136h ago",
         commentCount: 3,
         shareCount: 2,
